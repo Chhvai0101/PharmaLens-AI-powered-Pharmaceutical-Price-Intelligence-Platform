@@ -1,4 +1,3 @@
-# dawa-bazar
 # MedCompare AI
 
 > An AI-powered medicine price comparison and safety platform that reads your prescription, finds the cheapest genuine option across multiple pharmacies, flags suspicious pricing, and warns you about dangerous drug interactions — all in one dashboard.
